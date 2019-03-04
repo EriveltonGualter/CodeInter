@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AfterInterview2.cpp
+c:\users\erivelton\source\repos\afterinterview2\afterinterview2\afterinterview2.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\erivelton\source\repos\afterinterview2\afterinterview2\afterinterview2.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\erivelton\source\repos\afterinterview2\afterinterview2\afterinterview2.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\erivelton\source\repos\afterinterview2\afterinterview2\afterinterview2.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\erivelton\source\repos\afterinterview2\afterinterview2\afterinterview2.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\erivelton\source\repos\afterinterview2\afterinterview2\afterinterview2.cpp(82): warning C4715: 'getRandNotVector': not all control paths return a value
+  AfterInterview2.vcxproj -> C:\Users\Erivelton\source\repos\AfterInterview2\Debug\AfterInterview2.exe
